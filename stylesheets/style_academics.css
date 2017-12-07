@@ -4,6 +4,16 @@
 	border-top: 8px solid black;
 	border-bottom: 8px solid black;
 	margin-top: 20px;
+	background-image: url("../images/comp.gif")
+}
+
+
+.name {
+	color: white;
+}
+
+.ref {
+	color: white;
 }
 
 
