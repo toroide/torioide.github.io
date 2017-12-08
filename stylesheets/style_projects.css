@@ -1,0 +1,54 @@
+.sup {
+	width: 100%;
+	height: 310px;
+	border-top: 8px solid black;
+	border-bottom: 8px solid black;
+	margin-top: 20px;
+	background-image: url("../images/comp.gif")
+}
+
+
+.name {
+	color: white;
+}
+
+.ref {
+	color: white;
+}
+
+
+header img {
+	width: 160px;
+	height: 200px;
+	border-radius: 8px;
+    margin: auto;
+    display: block;
+    padding-top: 20px;
+}
+
+header p {
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+}
+
+section {
+	text-align: center;
+}
+
+.miportafolio {
+	border-radius: 12px;
+}
+
+.pie {
+width: 100%;
+height: 100px;
+border-top: 2px solid black;
+background-color: #720000;
+}
+
+.pie p {
+	text-align: center;
+}
